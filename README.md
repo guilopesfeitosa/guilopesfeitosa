@@ -31,3 +31,5 @@
   <a href="www.linkedin.com/in/guilherme-lopes-feitosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img src="https://cdn.discordapp.com/attachments/758112640252772424/1158824636398702654/ezgif.com-gif-maker.gif?ex=651da70b&is=651c558b&hm=2a068942c6df4a050191967b27a3bd08ab09f3e565135b57f966ceb45c44f2fd&" align="right" width="180" />
 </div>
+
+![snake gif](https://github.com/guilopesfeitosa/guilopesfeitosa/blob/output/github-contribution-grid-snake.svg)
