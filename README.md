@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" align="center" width="60"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" align="center" width="60"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" width="60"  />
-  <img src="https://discord.com/channels/@me/697197011086082086/1158822523882979439" align="right" />
+  <img src="https://discord.com/channels/758112639682478125/758128344746426419/1158823993122492457" align="right" />
 </section>
 
 ##
