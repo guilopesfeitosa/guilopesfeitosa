@@ -7,8 +7,8 @@
 
  ##   
 
-<section style="display: inline_block""><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" align="center" width="60"  />
+<div><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" align="center" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="center" width="60"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" align="center" width="60"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" align="center" width="60"  />        
@@ -21,8 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" align="center" width="60"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" align="center" width="60"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" width="60"  />
-  <img src="https://discord.com/channels/758112639682478125/758128344746426419/1158823993122492457" align="right" />
-</section>
+</div>
 
 ##
 
@@ -30,4 +29,5 @@
   <a href="https://www.instagram.com/lopes69gui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilopesfeitosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/guilherme-lopes-feitosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img src="https://cdn.discordapp.com/attachments/758112640252772424/1158824636398702654/ezgif.com-gif-maker.gif?ex=651da70b&is=651c558b&hm=2a068942c6df4a050191967b27a3bd08ab09f3e565135b57f966ceb45c44f2fd&" align="right" width="180" />
 </div>
