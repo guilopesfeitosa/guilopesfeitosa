@@ -5,9 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopesfeitosa&theme=shades-of-purple&layout=compact" />
 </div>
 
- ##
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
+ ##   
 
 <section>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="width: 60px; margin-right: 80px;" />
@@ -17,7 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="width: 60px; margin-right: 80px;" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 60px; margin-right: 80px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="width: 60px; margin-right: 80px;" />
-  <i class="devicon-nextjs-plain" style="width: 60px; margin-right: 80px;" ></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="width: 60px; margin-right: 80px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="width: 60px; margin-right: 80px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 60px; margin-right: 80px;" />
@@ -33,3 +30,5 @@
   <a href = "mailto:guilopesfeitosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/guilherme-lopes-feitosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilopesfeitosa&theme=shades-of-purple&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
